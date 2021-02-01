@@ -3,6 +3,7 @@
   border: 1px solid #000;
   background-color: rgba(255, 192, 203, 0.4);
   position: relative;
+  text-align: center;
 }
 .col-6{
   padding: 5px;
